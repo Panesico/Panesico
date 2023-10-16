@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/N5-🇯🇵-%23aaaaaa.svg?style=flat" alt="Segundo idioma"/>
         <img src="https://img.shields.io/badge/C1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Segundo idioma"/>
         <img src="https://img.shields.io/badge/A1-de-%23aaaaaa.svg?style=flat" alt="Tercer idioma"/>
-        <img src="https://komarev.com/ghpvc/?username=Yuukiio" alt="Profile views"/>
+        <img src="https://komarev.com/ghpvc/?username=Panesico" alt="Profile views"/>
 </p>
 
 ---
