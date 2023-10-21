@@ -14,6 +14,8 @@
         <img src="https://komarev.com/ghpvc/?username=Panesico" alt="Profile views"/>
 </p>
 
+![Online Status](https://img.shields.io/badge/Online-brightgreen)
+
 ---
 
 - 🔭 I’m currently studying CiberSecurity and Software Developer in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
@@ -24,7 +26,7 @@
 
 ## 🧑‍💻 My Current Technical Skills
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,git,github,vim,vscode,clion)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,git,github,vim,vscode)
 
 > :desktop_computer:  Languages - C | C++ | Python | Bash | HTML | CSS 
 
