@@ -2,7 +2,7 @@
 
 ### HI, I am Jorge Fernández as Panesico from Spain 🇪🇦
 
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&label=Currently&labelColor=grey&color=green)
+![Static Badge](https://img.shields.io/badge/label?label=Currently&labelColor=grey&color=green)
 
 ---
 
