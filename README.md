@@ -2,6 +2,8 @@
 
 ### HI, I am Jorge Fernández as Panesico from Spain 🇪🇦
 
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&label=Currently&labelColor=grey&color=green)
+
 ---
 
 #### Currently studying to become a Software & CiberSecurity Developer 💻
@@ -13,10 +15,6 @@
         <img src="https://img.shields.io/badge/A1-🇩🇪-%23aaaaaa.svg?style=flat" alt="Tercer idioma"/>
         <img src="https://komarev.com/ghpvc/?username=Panesico" alt="Profile views"/>
 </p>
-
-
-![Currently: Lightgrey](https://img.shields.io/badge/Currently-Lightgrey?style=for-the-badge&logo=appveyor&labelColor=lightgrey)
-![Online: Brightgreen](https://img.shields.io/badge/Online-brightgreen?style=for-the-badge&logo=appveyor&labelColor=brightgreen)
 
 ---
 
