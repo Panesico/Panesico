@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 My Current Technical Skills
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,git,html,css,github,python)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,git,github,vim,vscode,clion)
 
 > :desktop_computer:  Languages - C | C++ | Python | Bash | HTML | CSS 
 
@@ -36,7 +36,7 @@
 
 ## 💻 Skills I'm Currently Acquiring
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,cpp,bash,linux,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,bash,linux,react)](https://skillicons.dev)
 
 
 > :desktop_computer:  Languages - Python | CPP | React
