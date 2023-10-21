@@ -22,28 +22,28 @@
 - 🎓 Soon to be studying Daw, Dam & Software Engineering
 <br>
 
-## 💻 Skills I'm Currently Acquiring
-
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,cpp,bash,linux)](https://skillicons.dev)
-
-
-> :desktop_computer:  Languages - Python | C | CPP | Java
-
-> :fire: OS - MacOS | ParrotOS | W11
-  
-> :framed_picture:  Cybersecurity -  Bash | Linux
-<br>
-
 ## 🧑‍💻 My Current Technical Skills
 
-![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,git,html,css,github,python)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,git,html,css,github,python)
 
-> :desktop_computer:  Languages - C | Python | Bash | HTML | CSS 
+> :desktop_computer:  Languages - C | C++ | Python | Bash | HTML | CSS 
 
 > :hammer_and_wrench:  Tools -  Git | GitHub 
 
 > :atom:  IDEs -  Clion | Vim | Visual Studio Code
 
+<br>
+
+## 💻 Skills I'm Currently Acquiring
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,cpp,bash,linux,react)](https://skillicons.dev)
+
+
+> :desktop_computer:  Languages - Python | CPP | React
+
+> :fire: OS - MacOS | ParrotOS | W11
+  
+> :framed_picture:  Cybersecurity -  Bash | Linux
 <br>
 
 ## 💾 Projects
