@@ -14,7 +14,9 @@
         <img src="https://komarev.com/ghpvc/?username=Panesico" alt="Profile views"/>
 </p>
 
-![Online Status](https://img.shields.io/badge/Online-brightgreen)
+
+![Currently: Lightgrey](https://img.shields.io/badge/Currently-Lightgrey?style=for-the-badge&logo=appveyor&labelColor=lightgrey)
+![Online: Brightgreen](https://img.shields.io/badge/Online-brightgreen?style=for-the-badge&logo=appveyor&labelColor=brightgreen)
 
 ---
 
