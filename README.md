@@ -60,7 +60,7 @@
 ![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuukiio&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panesico&layout=compact&theme=dark&hide_border=true)
 
 <br>
 
