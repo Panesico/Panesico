@@ -4,7 +4,7 @@
 
 ---
 
-#### Currently studying to become a Software & CiberSecurity Developer 💻
+### Languages I speak:
 
  <p>
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma nativo"/>
@@ -15,6 +15,8 @@
 </p>
 
 ---
+
+#### I'm currently a Software Engineer 💻
 
 - 🔭 I’m currently studying CiberSecurity and Software Engineering in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
 - 👀 I’m interested on Python, CiberSecurity, C, C++ and Rust
