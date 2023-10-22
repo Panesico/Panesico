@@ -1,4 +1,4 @@
-![image](https://github.com/Panesico/Panesico/assets/101527876/63b6823a-a293-49d4-a159-e07e0b87bef2)![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Jorge Fernandez Moreno</h1>
 <h3 align="center">A passionate Software Engineer from Spain</h3>
 
@@ -30,4 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panesico&show_icons=true&locale=en" alt="panesico" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panesico&" alt="panesico" /></p>
+<p align="center">
+<a <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/jorgfern?1337Badge=off&UM6P=off" alt="jorgfern's 42 stats" /></a>
+</p>
