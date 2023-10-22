@@ -2,8 +2,6 @@
 
 ### HI, I am Jorge Fernández as Panesico from Spain 🇪🇦
 
-![Static Badge](https://img.shields.io/badge/label?label=Currently&labelColor=grey&color=green)
-
 ---
 
 #### Currently studying to become a Software & CiberSecurity Developer 💻
@@ -18,10 +16,10 @@
 
 ---
 
-- 🔭 I’m currently studying CiberSecurity and Software Developer in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
-- 👀 I’m interested on Python, CiberSecurity, C, Java and IA
-- 🌱 Currently working in Python, C & Java
-- 🎓 Soon to be studying Daw, Dam & Software Engineering
+- 🔭 I’m currently studying CiberSecurity and Software Engineering in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
+- 👀 I’m interested on Python, CiberSecurity, C, C++ and Rust
+- 🌱 Currently working in Python, C, C++ & Rust
+- 🎓 Soon to be studying Software Engineering
 <br>
 
 ## 🧑‍💻 My Current Technical Skills
@@ -57,9 +55,7 @@
 <br>
 
 ## ➡️ Contact me on: 
-![X](https://img.shields.io/static/v1?label=&message=Twitter&color=171515&logo=X&logoColor=white&style=for-the-badge)
-![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=FF69B4&logo=instagram&logoColor=red&style=for-the-badge)
-![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)
+![LinkedIn](https://www.linkedin.com/in/jorge-fernandez-mor/)(https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panesico&layout=compact&theme=dark&hide_border=true)
