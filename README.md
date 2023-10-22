@@ -36,10 +36,10 @@
 
 ## 💻 Skills I'm Currently Acquiring
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,bash,linux,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,bash,linux,rust)](https://skillicons.dev)
 
 
-> :desktop_computer:  Languages - Python | CPP | React
+> :desktop_computer:  Languages - Python | CPP | Rust
 
 > :fire: OS - MacOS | ParrotOS | W11
   
@@ -55,7 +55,7 @@
 <br>
 
 ## ➡️ Contact me on: 
-![LinkedIn](https://www.linkedin.com/in/jorge-fernandez-mor/)(https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)
+![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)(https://www.linkedin.com/in/jorge-fernandez-mor/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panesico&layout=compact&theme=dark&hide_border=true)
