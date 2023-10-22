@@ -59,9 +59,7 @@
 ## ➡️ Contact me on: 
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jorge-fernandez-mor/)
 
-<div style="text-align: center;" markdown="1">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panesico&layout=compact&theme=dark&hide_border=true)
-</div>
 
 
 
