@@ -30,6 +30,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panesico&show_icons=true&locale=en" alt="panesico" /></p>
 
+[![jorgfern's 42 stats](https://badge.mediaplus.ma/Binary/jorgfern)](https://github.com/oakoudad/badge42)
+
 <p align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/jorgfern?1337Badge=off&UM6P=off" alt="jorgfern's 42 stats" /></a>
 </p>
