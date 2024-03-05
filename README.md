@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Webserv](https://github.com/YD-S/Webserv)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Machine learning**
 
 - 👯 I’m looking to collaborate on [Veloren](https://github.com/veloren/veloren.git)
 
