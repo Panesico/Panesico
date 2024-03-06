@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,pytorch,linux,mysql,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,pytorch,mysql,linux,js,html,css)](https://skillicons.dev)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panesico&show_icons=true&locale=en&layout=compact" alt="panesico" /></p>
