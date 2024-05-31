@@ -33,6 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panesico&show_icons=true&locale=en" alt="panesico" /></p>
 
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/jorgfern?1337Badge=off&UM6P=off" alt="jorgfern's 42 stats" /></a>
-</p>
+# 📊 GitHub Stats:
+| ![](https://github-readme-stats.vercel.app/api?username=Panesico&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> | ![](https://github-readme-streak-stats.herokuapp.com/?user=Panesico&theme=tokyonight&hide_border=false)<br/> | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Panesico&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+|:-:|:-:|:-:|
