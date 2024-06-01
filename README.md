@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,matplotlib,mysql,docker,linux,c,cpp,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,docker,linux,c,cpp,js,html,css)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 | ![](https://github-readme-stats.vercel.app/api?username=Panesico&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> | ![](https://github-readme-streak-stats.herokuapp.com/?user=Panesico&theme=tokyonight&hide_border=false)<br/> | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Panesico&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
