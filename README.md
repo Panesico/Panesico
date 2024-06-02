@@ -31,7 +31,7 @@
 <table style="width: 100%; table-layout: fixed; padding: 0 !important">
   <tr>
     <td style="padding: 0 !important; width: 33% !important;">
-      <img src="https://github-readme-stats-hjy3xovxa-panesicos-projects.vercel.app/api?username=panesico&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="width: 100% !important; height: auto !important;"/>
+      <img src="https://github-readme-stats-qc9i-8ol5wcnkr-panesicos-projects.vercel.app/api?username=panesico&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="width: 100% !important; height: auto !important;"/>
     </td>
     <td style="padding: 0 !important; width: 33% !important;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panesico&theme=tokyonight&hide_border=false" style="width: 100% !important; height: auto !important;"/>
