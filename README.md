@@ -28,16 +28,16 @@
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,docker,linux,c,cpp,js,html,css)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-<table style="width: 100%; table-layout: fixed; padding: 0 !important;">
-  <tr style="padding: 0 !important;">
-    <td style="padding: 0 !important; width: 30% !important;">
-      <img src="https://github-readme-stats-qc9i-8ol5wcnkr-panesicos-projects.vercel.app/api?username=panesico&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="width: 100% !important; height: auto !important; padding: 0 !important;"/>
+<table style="width: 100%; table-layout: fixed; padding: 0 ;">
+  <tr style="padding: 0 ;">
+    <td style="padding: 0 ; width: 30% ;">
+      <img src="https://github-readme-stats-qc9i-8ol5wcnkr-panesicos-projects.vercel.app/api?username=panesico&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="width: 100% ; height: auto ; padding: 0 ;"/>
     </td>
-    <td style="padding: 0 !important; width: 30% !important;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panesico&theme=tokyonight&hide_border=false" style="width: 100% !important; height: auto !important; padding: 0 !important"/>
+    <td style="padding: 0 ; width: 30% ;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panesico&theme=tokyonight&hide_border=false" style="width: 100% ; height: auto ; padding: 0 "/>
     </td>
-    <td style="padding: 0 !important; width: 39% !important;">
-      <img src="https://github-readme-stats-qc9i-8ol5wcnkr-panesicos-projects.vercel.app/api/top-langs/?username=Panesico&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 100% !important; height: auto !important; padding: 0 !important"/>
+    <td style="padding: 0 ; width: 39% ;">
+      <img src="https://github-readme-stats-qc9i-8ol5wcnkr-panesicos-projects.vercel.app/api/top-langs/?username=Panesico&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 100% ; height: auto ; padding: 0 "/>
     </td>
   </tr>
 </table>
