@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,docker,linux,c,cpp,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,kubernetes,aws,docker,linux,c,cpp,js,html,css)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 <table style="width: 100%; table-layout: fixed; padding: 0;">
