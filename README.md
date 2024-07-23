@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panesico&theme=monokai&title=MultiLanguage,Commits,Followers,Repositories,Issues,PullRequest,Reviews,Stars" alt="panesico" /></a> </p>
 
-- 🔭 I’m currently working on [Webserv](https://github.com/YD-S/Webserv)
+- 🔭 I’m currently working on [Ft_transcendence](https://github.com/YD-S/Ft_transcendence)
 
 - 🌱 I’m currently learning **Machine learning**
 
