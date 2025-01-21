@@ -35,7 +35,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panesico&theme=tokyonight&hide_border=false" style="width: 100% ; height: auto ; padding: 0"/>
     </td>
     <td style="padding: 0; width: 39% ;">
-      <img src="https://github-readme-stats-qc9i-8ol5wcnkr-panesicos-projects.vercel.app/api/top-langs/?username=Panesico&theme=tokyonight&hide_border=false&hide=jupyter%20notebook,html,c&include_all_commits=true&count_private=true&layout=compact" style="width: 100% ; height: auto ; padding: 0"/>
+      <img src="https://github-readme-stats-qc9i-8ol5wcnkr-panesicos-projects.vercel.app/api/top-langs/?username=Panesico&theme=tokyonight&hide_border=false&hide=jupyter%20notebook,html,c,makefile&include_all_commits=true&count_private=true&layout=compact" style="width: 100% ; height: auto ; padding: 0"/>
     </td>
   </tr>
 </table>
