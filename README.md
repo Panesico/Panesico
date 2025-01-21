@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ft_transcendence](https://github.com/DorukEmre/PongWithDjango)
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 👯 I’m looking to collaborate on [Veloren](https://github.com/veloren/veloren.git)
 
